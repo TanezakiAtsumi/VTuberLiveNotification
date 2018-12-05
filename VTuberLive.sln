@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTuberLive", "ConsoleApp1\VTuberLive.csproj", "{40F221B4-7BCB-4185-9388-317F875E7F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F221B4-7BCB-4185-9388-317F875E7F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F221B4-7BCB-4185-9388-317F875E7F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F221B4-7BCB-4185-9388-317F875E7F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F221B4-7BCB-4185-9388-317F875E7F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF9853E-64D3-45DC-BD35-CBB0036655C1}
+	EndGlobalSection
+EndGlobal
